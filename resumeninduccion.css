@@ -1,0 +1,54 @@
+body{
+    background-color: #cccccc;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+.c2{
+    background-color: #ffffff;
+    width: 100%;
+    height: 150px;
+}
+.c1{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.c0{
+    position: absolute;
+    top: 50px;
+    left: 75%;
+}
+
+#navegador ul {
+    list-style-type: none;
+    text-align: center;
+    background-color: #39a900;
+    height: 50px;
+}
+#navegador li {
+    display: inline;
+    text-align: center;
+    margin: 0 40px 0 0;
+}
+#navegador li a {
+    color: #ffffff;
+    background-color: #39a900;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 10 10 10 10;
+}
+#navegador li a:hover {
+    background-color: #00324D;
+    color: #ffffff;
+}
+.c4{
+    width: 100%;
+    height: 170px;
+    text-align: center;
+    position: relative;
+    font-size: 20px;
+}
+.c5{
+    position: relative;
+    margin-left: 300px;
+}
